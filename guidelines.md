@@ -8,8 +8,9 @@ layout: default
 
 ## Moore/Sloan Data Science Environment
 
-More links: <http://uwescience.github.io/reproducible/>
+**More links:** <http://uwescience.github.io/reproducible/>
 
+**Under construction:** Most of the pages linked below don't have much content yet.
 
 Our working definition for reproducible research is that a research result can
 be replicated by another investigator. Our focus is data science and the
@@ -99,4 +100,3 @@ See [Virtualization](virtualization.html) for more details.
 See [Resources](resources.html) for more discussion of these guidelines and 
 links to other resources and tutorials.
 
-**Under construction:** Most of the pages linked above don't have much content yet.
