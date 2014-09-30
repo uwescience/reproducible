@@ -8,7 +8,7 @@ layout: default
 
 ## Moore/Sloan Data Science Environment
 
-Online version: <http://uwescience.github.io/reproducible/guidelines.html>
+More links: <http://uwescience.github.io/reproducible/>
 
 
 Our working definition for reproducible research is that a research result can
