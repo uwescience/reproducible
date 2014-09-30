@@ -62,8 +62,9 @@ Data used in publications (and associated metadata) should be available to
 readers of the publication - subject of course to privacy requirements or
 related issues, but sharing should be the default. Data should be deposited in
 archives that are appropriate for the discipline, data size, and the nature of
-access. Where possible, seek to provide a DOI for data in your publications.
-See [Data](data.html) for more details.
+access. 
+Ensure that your code and data can be properly cited. Many repositories issue a
+DOI, for example. See [Repositories](repositories.html) for more details.
 
 Metadata and provenance of data (e.g. original source, date acquired, etc.)
 should be recorded and archived with the data. See [Data](data.html) for more details.
@@ -75,13 +76,10 @@ Perform internal code reviews and replication studies within your research
 group to insure that you have archived and adequately documented all code and
 data needed to reproduce published results. See [Code](code.html) for more details.
 
-Ensure that your code and data can be properly cited. Many repositories issue a
-DOI, for example. See [Data](data.html) for more details.
-
 Make it clear what the rules are for others to use your code or data, e.g. by
 attaching a suitable license to code. This increases the chances that others
 will build on it, and that you will get the proper credit. 
-See [Data](data.html) for more details.
+See [Data](data.html)  or [Code](code.html) for more details.
 
 ## Replicable environment
 

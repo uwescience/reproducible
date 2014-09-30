@@ -17,3 +17,10 @@ layout: default
 
  - Git parable <http://tom.preston-werner.com/2009/05/19/the-git-parable.html>
 
+### Github 
+
+ - [Getting started](https://help.github.com/articles/set-up-git)
+
+ - [UW eScience repositories](https://github.com/uwescience/): Let us know
+   if you want to create a repository here!
+
