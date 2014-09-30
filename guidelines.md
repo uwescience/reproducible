@@ -98,3 +98,5 @@ See [Virtualization](virtualization.html) for more details.
 
 See [Resources](resources.html) for more discussion of these guidelines and 
 links to other resources and tutorials.
+
+**Under construction:** Most of the pages linked above don't have much content yet.
