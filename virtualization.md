@@ -10,7 +10,9 @@ Add discussion...
 
  - [VirtualBox](https://www.virtualbox.org/)
  - [vmware](http://www.vmware.com/)
- - [Vagrant](https://www.vagrantup.com/)
+ - [Vagrant](https://www.vagrantup.com/) ...
+   [Vagrant4Scientists](http://hplgit.github.io/vagrantbox/doc/pub/._vagrant_box001.html)
+ - [Docker](https://www.docker.com/)
 
 ### Reproducible environment tools
 

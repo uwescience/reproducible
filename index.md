@@ -7,6 +7,11 @@ layout: default
 
 Add introduction...
 
+See also 
+[escience.washington.edu/reproducible](http://escience.washington.edu/reproducible)
+for more information about the DSE Working Group, the UW Reproducibility
+Group, and the report from a workshop in May, 2014.
+
  - [Guidelines](guidelines.html) for Reproducible and Open Science
  - [Goals and benefits](goals.html) of following these guidelines
 
