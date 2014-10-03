@@ -13,7 +13,7 @@ for more information about the DSE Working Group and the UW Reproducibility Grou
 
  - [Guidelines](guidelines.html) for Reproducible and Open Science
  - [Goals and benefits](goals.html) of following these guidelines
- - [Workshop Report](assests/Reproducibility_Workshop_Report.pdf) from May, 2014
+ - [Workshop Report](workshop14/Reproducibility_Workshop_Report.pdf) from May, 2014
     * [More workshop information including slides](http://escience.washington.edu/event/first-reproducibility-workshop)
 
 **Under construction:** The pages below are constantly evolving.  Why not contribute?
