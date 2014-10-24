@@ -48,4 +48,6 @@ for more information about the DSE Working Group and the UW Reproducibility Grou
  - [Virtualization](virtualization.html)
  - [Other resources](resources.html)
 
+ - [Presentations](presentations.html)
+
  - [How to contribute to these pages](howto.html)
