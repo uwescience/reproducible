@@ -6,6 +6,14 @@ layout: default
 
 # Presentations
 
+Unless otherwise noted, the slides linked below can be found in this github
+repository (check out the `gh-pages` branch)
+and are  [CC-BY](https://creativecommons.org/licenses/by/3.0/us/)
+licensed, so others are free to re-use them in whole
+or in part with attribution to the original creator.
+Please consider including something about reproducibility and open science in
+your own presentations or classes!
+
 #### 30 September 2014 - eScience Community Seminar, 
 
    - David Beck and Randy LeVeque  [[slides]](slides/CommunitySeminar_30sep2014.pdf)
