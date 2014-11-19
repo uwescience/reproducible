@@ -25,3 +25,7 @@ your own presentations or classes!
     Randy LeVeque, and David Beck [[slides]](slides/beck_20141021.pptx)
   - [Video](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=e5466fb6-2b93-4d78-2063-5a7b69f5d1a9)
 
+#### 18 November 2014 - Reproducibility group meeting, 
+
+  - Abraham Flaxman, Reproducible Research in Secondary Data Analysis [[slides]](slides/flaxman_18nov2014.pptx),
+
