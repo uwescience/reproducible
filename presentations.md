@@ -29,3 +29,11 @@ your own presentations or classes!
 
   - Abraham Flaxman, Reproducible Research in Secondary Data Analysis [[slides]](slides/flaxman_18nov2014.pptx),
 
+#### 2 December 2014 - Reproducibility group meeting, 
+
+  - Ben Marwick, Reproducible Research with Collaborators... who just aren’t
+    that into it
+    [[Slides]](http://benmarwick.github.io/UW-eScience-reproducibility-collaboration)
+    [[Github repository]](https://github.com/benmarwick/UW-eScience-reproducibility-collaboration)
+  
+
