@@ -36,4 +36,11 @@ your own presentations or classes!
     [[Slides]](http://benmarwick.github.io/UW-eScience-reproducibility-collaboration)
     [[Github repository]](https://github.com/benmarwick/UW-eScience-reproducibility-collaboration)
   
+#### 20 January 2015 - Reproducibility Seminar,
+
+  - K. Allison Smith, Domain Science Code From Development to Release
+    [[Slides]](slides/smith_20150120.pdf)
+  - [[GitHub Repository]](https://github.com/kallisons/NOAH_LSM_Mussel_v2.0/tree/v2.0)
+    (Nice instructions in the README.md file!)
+
 
