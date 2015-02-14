@@ -11,8 +11,17 @@ repository (check out the `gh-pages` branch)
 and are  [CC-BY](https://creativecommons.org/licenses/by/3.0/us/)
 licensed, so others are free to re-use them in whole
 or in part with attribution to the original creator.
+
 Please consider including something about reproducibility and open science in
 your own presentations or classes!
+
+
+### Mailing list
+
+You might want to join the [reproducible@uw.edu mailing
+list](http://mailman11.u.washington.edu/mailman/listinfo/reproducible)
+for future seminar announcements and interesting discussions of
+reproducibility issues.
 
 #### 30 September 2014 - eScience Community Seminar, 
 
@@ -43,4 +52,9 @@ your own presentations or classes!
   - [[GitHub Repository]](https://github.com/kallisons/NOAH_LSM_Mussel_v2.0/tree/v2.0)
     (Nice instructions in the README.md file!)
 
+#### 11 February 2015 - Reproducibility Seminar,
+
+  - Ben Marwick, Reproducible Research using Docker and R
+  - [[Slides]](http://benmarwick.github.io/UW-eScience-docker-for-reproducible-research/#1)
+    ... [[Summary]](https://github.com/benmarwick/UW-eScience-docker-for-reproducible-research/blob/master/escience_docker_for_reproducbility.Rmd)
 
