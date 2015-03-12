@@ -58,3 +58,10 @@ reproducibility issues.
   - [[Slides]](http://benmarwick.github.io/UW-eScience-docker-for-reproducible-research/#1)
     ... [[Summary]](https://github.com/benmarwick/UW-eScience-docker-for-reproducible-research/blob/master/escience_docker_for_reproducbility.Rmd)
 
+#### 10 March 2015 - Reproducibility Seminar,
+
+  - William Stein, SageMathCloud --  collaboratively use Sage, IPython,
+    LaTeX, and terminals in your browser.
+    [[Abstract]](slides/wstein_abstract_10mar2015.txt)
+  - [Video of interactive
+    presentation](https://www.youtube.com/watch?v=_ff2HdME8MI&feature=youtu.be)

@@ -1,0 +1,31 @@
+
+Reproducibility and Open Science Seminar
+
+Speaker: William Stein, Mathematics Department
+
+Time and date: 1:30pm on Tuesday, March 10
+
+Place: Data Science Studio Meeting Room, 6th Floor, Physics/Astronomy Tower
+
+Title: SageMathCloud --  collaboratively use Sage, IPython, LaTeX, and
+terminals in your browser.
+
+Abstract:  
+I am a professor in the mathematics department at UW. In 2005, I founded
+SageMath, which is the main large open source pure
+mathematics research software (and is often used in undergraduate
+teaching), with many hundreds of contributors. Sage is an open source
+free download, which is pretty big and can be difficult to install.
+Since 2006, we've always had some sort of web-based interface.  In
+2013, I launched SageMathCloud (SMC), which is a new web interface to
+Sage, with much general functionality that has little to do with Sage,
+and is of interest to people outside mathematics research.  For
+example, all development of SMC is done from within SMC, so SMC is
+also an online development environment.  There's also support for
+editing LaTeX documents, using IPython notebooks, tracking tasks, etc.
+
+   In this talk I'll give an overview of SMC, then talk about some
+incidental connections with reproducibility, including how SMC
+aggressively snapshots all user files periodically, and records nearly
+every keystroke (with a history slider) when editing worksheets.
+
