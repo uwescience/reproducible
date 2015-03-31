@@ -51,3 +51,8 @@ for more information about the DSE Working Group and the UW Reproducibility Grou
  - [Presentations](presentations.html)
 
  - [How to contribute to these pages](howto.html)
+
+ - [GitHub wiki](https://github.com/uwescience/reproducible/wiki) containing
+   some discussions and work in progress, and a list of 
+   [Code Products](https://github.com/uwescience/reproducible/wiki/Code-Products)
+   that have been shared to complement research efforts.

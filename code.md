@@ -29,3 +29,9 @@ See [Repositories](repositories.html).
 
  - [Code reviews: the lab meeting for code](http://fperez.org/py4science/code_reviews.html)
    by Fernando Perez
+
+### Code Products
+
+ - A list of [Code Products](https://github.com/uwescience/reproducible/wiki/Code-Products)
+   that have been shared to complement research efforts. 
+   Please contribute more!
