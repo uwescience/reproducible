@@ -3,7 +3,7 @@ title: Reproducible
 layout: default
 ---
 
-# Welcome page
+# Overview and Index
 
 The Reproducibility and Open Science group at UW meets regularly
 and hosts workshops to discuss the issues and practices around tools

@@ -3,6 +3,8 @@ title: Test Page
 layout: default
 ---
 
+[[Overview and index]](index.html)
+
 # Git resources
 
  - Online interactive tutorial: <http://try.github.com/>
