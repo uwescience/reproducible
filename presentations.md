@@ -3,6 +3,7 @@ title: Presentations
 layout: default
 ---
 
+[[Overview and index]](index.html)
 
 # Presentations
 
@@ -69,5 +70,6 @@ reproducibility issues.
 #### 28 April 2015 - Reproducibility Seminar,
 
   - Tony Hey, Physics and Computing: Open Science Decoded
+    [[Abstract]](slides/hey_flyer_2015.pdf)
   - [[Slides]](slides/hey_20150428.pdf)
 
