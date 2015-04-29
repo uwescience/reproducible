@@ -65,3 +65,9 @@ reproducibility issues.
     [[Abstract]](slides/wstein_abstract_10mar2015.txt)
   - [Video of interactive
     presentation](https://www.youtube.com/watch?v=_ff2HdME8MI&feature=youtu.be)
+
+#### 28 April 2015 - Reproducibility Seminar,
+
+  - Tony Hey, Physics and Computing: Open Science Decoded
+  - [[Slides]](slides/hey_20150428.pdf)
+
