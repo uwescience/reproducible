@@ -71,5 +71,6 @@ reproducibility issues.
 
   - Tony Hey, Physics and Computing: Open Science Decoded
     [[Abstract]](slides/hey_flyer_2015.pdf)
-  - [[Slides]](slides/hey_20150428.pdf)
+  - [[Slides]](slides/hey_20150428.pdf) ... 
+    [[Video]](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=be634e30-b4f6-e5b1-5ede-c1070d847b30)
 
