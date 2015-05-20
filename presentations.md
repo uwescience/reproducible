@@ -74,3 +74,11 @@ reproducibility issues.
   - [[Slides]](slides/hey_20150428.pdf) ... 
     [[Video]](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=be634e30-b4f6-e5b1-5ede-c1070d847b30)
 
+#### 19 May 2015 - Reproducibility Seminar,
+
+  - Fernando Chirigati, NYU: Facilitating Reproducibility After the Fact
+  - [[Slides]](slides/chirigati_19may2015.pdf) 
+  - [[Video part 1]](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=476041de-2225-773c-2361-1d902e70d2d8) on noWorkflow
+  - [[Video part 2]](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=2b52fcef-65ed-7649-ad8e-7b4d07dbc341) 
+    on ReproZip  (microphone died so first part is missing)
+
