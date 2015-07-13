@@ -82,3 +82,7 @@ reproducibility issues.
   - [[Video part 2]](https://panopto.uw.edu/Panopto/Pages/Viewer.aspx?id=2b52fcef-65ed-7649-ad8e-7b4d07dbc341) 
     on ReproZip  (microphone died so first part is missing)
 
+#### 13 July 2015 - Data Science for Social Good summer program 
+
+  - Randy LeVeque, Reproducibility and Open Science
+  - [[Slides]](slides/leveque_13july2015.pdf) 
