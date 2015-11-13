@@ -86,3 +86,13 @@ reproducibility issues.
 
   - Randy LeVeque, Reproducibility and Open Science
   - [[Slides]](slides/leveque_13july2015.pdf) 
+
+#### 10 November 2015 - Reproducibility and Open Science Seminar
+
+  - Hossein Estiri, Institute of Translational Health Sciences:
+    Reproducibility Implications for spatial research, policy, and beyond
+  - [[Slides]](slides/estiri_10nov2015.pdf) ... [[Video]](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=141e9f25-6c10-df86-be49-4b3735bfc7a4)
+    of talk and part of discussion
+  - [GitHub repository](https://github.com/anonREAuthor/hhLocation) discussed in talk
+    
+
