@@ -5,7 +5,7 @@ layout: default
 
 [[Overview and index]](index.html)
 
-# Presentations
+# Seminars and Presentations
 
 Unless otherwise noted, the slides linked below can be found in this github
 repository (check out the `gh-pages` branch)

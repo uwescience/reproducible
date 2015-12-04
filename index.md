@@ -5,8 +5,11 @@ layout: default
 
 # Overview and Index
 
-The Reproducibility and Open Science group at UW meets regularly
-and hosts workshops to discuss the issues and practices around tools
+The UW [eScience Reproducibility and Open Science
+Working
+Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/)
+meets regularly and hosts [seminars](presentations.html)
+to discuss the issues and practices around tools
 and practices to enhance data sharing, preservation, provenance,
 and reproducibility.  
 
@@ -29,14 +32,15 @@ its correctness if necessary.  Open science is a vision to work
 towards broader sharing that typically requires and facilitates
 reproducibility.
 
-See also 
-[escience.washington.edu/reproducible](http://escience.washington.edu/reproducible)
-for more information about the DSE Working Group and the UW Reproducibility Group.
 
  - [Guidelines](guidelines.html) for Reproducible and Open Science
  - [Goals and benefits](goals.html) of following these guidelines
+ - Join the [reproducible@uw.edu mailing
+   list](http://mailman11.u.washington.edu/mailman/listinfo/reproducible)
+   for seminar announcements and discussion of reproducibility issues.
  - [Workshop Report](workshop14/Reproducibility_Workshop_Report.pdf) from May, 2014
-    * [More workshop information including slides](http://escience.washington.edu/event/first-reproducibility-workshop)
+ - These pages are maintained by the [eScience Reproducibility and Open Science
+   Working Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/).
 
 **Under construction:** The pages below are constantly evolving.  Why not contribute?
 
@@ -48,7 +52,7 @@ for more information about the DSE Working Group and the UW Reproducibility Grou
  - [Virtualization](virtualization.html)
  - [Other resources](resources.html)
 
- - [Presentations](presentations.html)
+ - [Seminars and Presentations](presentations.html)
 
  - [How to contribute to these pages](howto.html)
 
