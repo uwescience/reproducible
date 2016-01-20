@@ -51,6 +51,7 @@ reproducibility.
  - [Workflow management systems](workflow.html)
  - [Virtualization](virtualization.html)
  - [Other resources](resources.html)
+ - [Badges project](badges.html)
 
  - [Seminars and Presentations](presentations.html)
 
