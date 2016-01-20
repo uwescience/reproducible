@@ -11,8 +11,9 @@ layout: default
 
  - Work with the UW [eScience Reproducibility and Open Science Working
    Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/),
-   which collaborates with parallel working groups at NYU and Berkeley
-   funded by the Moore/Sloan [Data Science Environment](http://msdse.org/)
+   which collaborates with 
+   [working groups at NYU and Berkeley](https://reproduciblescience.org/),
+   also funded by the Moore/Sloan [Data Science Environment](http://msdse.org/)
    project.
 
  - Investigate strategies to educate and influence researchers towards

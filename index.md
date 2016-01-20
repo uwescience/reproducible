@@ -10,7 +10,10 @@ Group](http://escience.washington.edu/about-us/working-groups/reproducibility-an
 meets regularly and hosts [seminars](presentations.html)
 to discuss the issues and practices around tools
 and practices to enhance data sharing, preservation, provenance,
-and reproducibility.  
+and reproducibility.  We are collaborating with
+[working groups at NYU and Berkeley](https://reproduciblescience.org/),
+also funded by the Moore/Sloan [Data Science Environment](http://msdse.org/)
+project.
 
 We consider better instrumentation of tools
 in support of sharing and reproducibility, the design of repositories
@@ -40,6 +43,8 @@ reproducibility.
  - [Workshop Report](workshop14/Reproducibility_Workshop_Report.pdf) from May, 2014
  - These pages are maintained by the [eScience Reproducibility and Open Science
    Working Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/).
+
+   
 
 **Under construction:** The pages below are constantly evolving.  Why not contribute?
 
