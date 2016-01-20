@@ -32,7 +32,7 @@ in the field, such as the [Guidelines](guidelines.html) we are developing.
 
  - Mozilla Science Lab [Contributorship
    Badges](https://mozillascience.org/contributorship-badges-a-new-project)
-   to acknowledge diverse contributions to a publication.
+   to acknowledge diverse contributions to a scholarly publication.
 
 ## Goals
 
@@ -42,9 +42,12 @@ in the field, such as the [Guidelines](guidelines.html) we are developing.
  - Get researchers who are new to these ideas onto a trajectory of
    improvement,
  - Communicate to people the key principles and tools for reproducible
-   research and open science,
- - Bronze, Silver, Gold levels based on cumulative history of following
+   research and open science, 
+ - Collect exemplars for others to follow and display them in a manner that
+   is easy to browse,
+ - Award Bronze, Silver, Gold levels based on cumulative history of following
    best practices for code and data.
+
 
 ## Status
 
