@@ -6,7 +6,7 @@ layout: default
 [[Overview and index]](index.html)
 
 
-# Badges for Reproducbility and Open Science
+# Badges for Reproducibility and Open Science
 
 <a
 href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html">

@@ -5,8 +5,7 @@ layout: default
 
 # Overview and Index
 
-The UW [eScience Reproducibility and Open Science
-Working
+The UW [eScience Reproducibility and Open Science Working
 Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/)
 meets regularly and hosts [seminars](presentations.html)
 to discuss the issues and practices around tools
