@@ -25,10 +25,17 @@ for future seminar announcements and interesting discussions of
 reproducibility issues.
 
 
-### 5 April 2016 - Reproducibility and Open Science Seminar
+#### 12 April 2016 - Reproducibility and Open Science Seminar
+
+- Kara Woo, UW iSchool: Using the [Open Science Framework](https://osf.io/)
+  to manage & share your research
+- [Slides](http://karawoo.com/escience-osf-seminar/osf_talk_20160412.html)
+- [Sample OSF Project created during the talk](https://osf.io/2ktnc/)
+
+#### 5 April 2016 - Reproducibility and Open Science Seminar
 
 - Ariel Rokem, eScience Institute: Binder: a tool for open adn reproducible science
-- Slides: http://arokem.github.io/2016-03-28-binder/#1
+- [Slides](http://arokem.github.io/2016-03-28-binder/#1)
 
 
 #### 10 November 2015 - Reproducibility and Open Science Seminar
