@@ -35,6 +35,7 @@ towards broader sharing that typically requires and facilitates
 reproducibility.
 
 
+ - [Individual reproducibility reports](reproducibility-reports.html)
  - [Guidelines](guidelines.html) for Reproducible and Open Science
  - [Goals and benefits](goals.html) of following these guidelines
  - Join the [reproducible@uw.edu mailing
@@ -44,14 +45,14 @@ reproducibility.
  - These pages are maintained by the [eScience Reproducibility and Open Science
    Working Group](http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/).
 
-   
+
 
 **Under construction:** The pages below are constantly evolving.  Why not contribute?
 
  - [Data](data.html)
  - [Code](code.html)
  - [Git resources](git.html)
- - [Notebooks](notebooks.html) 
+ - [Notebooks](notebooks.html)
  - [Workflow management systems](workflow.html)
  - [Virtualization](virtualization.html)
  - [Other resources](resources.html)
@@ -62,6 +63,6 @@ reproducibility.
  - [How to contribute to these pages](howto.html)
 
  - [GitHub wiki](https://github.com/uwescience/reproducible/wiki) containing
-   some discussions and work in progress, and a list of 
+   some discussions and work in progress, and a list of
    [Code Products](https://github.com/uwescience/reproducible/wiki/Code-Products)
    that have been shared to complement research efforts.
