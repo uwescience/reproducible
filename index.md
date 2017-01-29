@@ -57,11 +57,8 @@ reproducibility.
  - [Virtualization](virtualization.html)
  - [Other resources](resources.html)
  - [Badges project](badges.html)
-
  - [Seminars and Presentations](presentations.html)
-
  - [How to contribute to these pages](howto.html)
-
  - [GitHub wiki](https://github.com/uwescience/reproducible/wiki) containing
    some discussions and work in progress, and a list of
    [Code Products](https://github.com/uwescience/reproducible/wiki/Code-Products)

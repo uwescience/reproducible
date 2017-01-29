@@ -24,6 +24,10 @@ list](http://mailman11.u.washington.edu/mailman/listinfo/reproducible)
 for future seminar announcements and interesting discussions of
 reproducibility issues.
 
+#### 10 January 2017 - Reproducibility and Open Science Seminar
+
+- Tim Vines, [Axios Review](http://axiosreview.org/)
+- Slides: [pdf](slides/vines_20170110.pdf), [pptx](slides/vines_20170110.pptx)
 
 #### 12 April 2016 - Reproducibility and Open Science Seminar
 
