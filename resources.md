@@ -10,8 +10,8 @@ layout: default
 
 Many additional links can be found on these sites:
 
- - [ICERM workshop wiki](http://wiki.stodden.net/ICERM_Reproducibility_in_Computational_and_Experimental_Mathematics:_Readings_and_References)
- - [reproduciblescience.org](http://reproduciblescience.org/index.php/Main_Page)
+ - [ICERM workshop report](https://icerm.brown.edu/tw12-5-rcem/icerm_report.pdf) 
+ - [reproduciblescience.org](http://reproduciblescience.org/index.php/)
  - [reproducibleresearch.net](http://reproducibleresearch.net/)
  - [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001745&type=printable) (2014) in PLOS Biology by Greg Wilson et al.
  - ["Where next for the reproducibility agenda in computational biology"](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-016-0288-x) (2016) by Joanna Lewis et al in BMC Systems Biology

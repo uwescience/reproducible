@@ -33,6 +33,6 @@ Add discussion...
  - [Jupyter NBViewer](https://nbviewer.jupyter.org/), notebooks also [render on Gituhub](https://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/); ([Wakari](https://wakari.io/) has disbanded in favor of Jupyter).
  - [Shiny by RStudio](https://shiny.rstudio.com/); R-based web apps can be deployed at [shinyapps.io](http://www.shinyapps.io).
  - [Amazon Web Services (AWS)](https://aws.amazon.com/) including [Amazon Machine Images](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/AMIs.html)
- - [Microsoft Azure](https://azure.microsoft.com/) including [VM Images](https://azure.microsoft.com/en-us/blog/vm-image-blog-post/) and [Azure Machine Learning Studio](https://studio.azureml.net/)
+ - [Microsoft Azure](https://azure.microsoft.com/) including [VM Images](https://azure.microsoft.com/en-us/blog/vm-image-blog-post/), [Azure Notebooks](https://notebooks.azure.com), and [Azure Machine Learning Studio](https://studio.azureml.net/)
  - [Git Large File Storage](https://git-lfs.github.com/) is an open source git extension for storing large data files in a remote server such as GitHub, AWS, Azure, or a university (options at the University of Washington listed here: [IT Connect](https://itconnect.uw.edu/wares/online-storage/)).
  - [Zooinverse](https://www.zooniverse.org/) allows researchers to upload data and code a project ([GalaxyZoo](https://www.galaxyzoo.org/) being a famous example) allowing volunteers to process data, paraticularly data that cannot be done (or done well) by computers.
