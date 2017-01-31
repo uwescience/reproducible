@@ -23,6 +23,9 @@ The primary goals motivating these [guidelines](guidelines.html) are:
  - To increase access to and usability of research products by other
    researchers.
 
+ - To facilitate the more rapid adoption of ground-breaking research (which normally
+   requires greater scrutiny).
+
  - To use the DSE as a test bed for developing and promoting tools and cultural
    changes across a broad spectrum of academic disciplines.
 
@@ -41,5 +44,3 @@ It is also hoped that other research groups and labs around campus and
 beyond will find it valuable to adopt similar guidelines. Feedback,
 suggestions, and reports of success or failure are encouraged from any
 source.
-
-
