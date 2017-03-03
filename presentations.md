@@ -24,6 +24,12 @@ list](http://mailman11.u.washington.edu/mailman/listinfo/reproducible)
 for future seminar announcements and interesting discussions of
 reproducibility issues.
 
+#### 3 March 2017 - Data Science and Society, CSE 491
+
+- David Beck, [website](http://faculty.washington.edu/dacb)
+- Slides: [pdf](slides/dacb_DSS.pdf), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=050a02ae-a819-4d09-a7d2-db448c803ba9)
+
+
 #### 10 January 2017 - Reproducibility and Open Science Seminar
 
 - Tim Vines, [Axios Review](http://axiosreview.org/)
