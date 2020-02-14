@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UW eScience Reproducible and Open Research Special Interest Group</title>
-    <link>http://uwescience.github.io/reproducible/</link>
+    <link>/reproducible/</link>
     <description>Recent content on UW eScience Reproducible and Open Research Special Interest Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://uwescience.github.io/reproducible/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/reproducible/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://uwescience.github.io/reproducible/post/2015-07-23-r-rmarkdown/</link>
+      <link>/reproducible/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://uwescience.github.io/reproducible/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/reproducible/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

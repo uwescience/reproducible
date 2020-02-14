@@ -14,6 +14,8 @@ Notes on maintaining the website:
 - We edit menu anchors in the html files in themes/vex-hugo/layouts/partials
 - The .git repo for these materials is in /public, and this is what goes to this GitHub repo to serve the page, cf. [the blogdown book](https://bookdown.org/yihui/blogdown/github-pages.html)
 
+We also have a title slide to show before events here: http://bit.ly/escience-repro
+
 ### Contributing
 
 Before you make a substantial pull request, you should always file an issue and
